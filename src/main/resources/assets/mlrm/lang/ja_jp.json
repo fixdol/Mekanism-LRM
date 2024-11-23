@@ -1,0 +1,17 @@
+{
+  "block.mlrm.antimatter": "液体反物質",
+  "block.mlrm.fissile_fuel": "液体核分裂燃料",
+  "block.mlrm.nuclear_waste": "液体核廃棄物",
+  "block.mlrm.plutonium": "液体プルトニウム",
+  "block.mlrm.polonium": "液体ポロニウム",
+  "block.mlrm.spent_nuclear_waste": "液体使用済み核廃棄物",
+
+  "constants.mlrm.mod_name": "Mekanism: LRM",
+
+  "item.mlrm.antimatter_bucket": "液体反物質入りバケツ",
+  "item.mlrm.fissile_fuel_bucket": "液体核分裂燃料入りバケツ",
+  "item.mlrm.nuclear_waste_bucket": "液体核廃棄物入りバケツ",
+  "item.mlrm.plutonium_bucket": "液体プルトニウム入りバケツ",
+  "item.mlrm.polonium_bucket": "液体ポロニウム入りバケツ",
+  "item.mlrm.spent_nuclear_waste_bucket": "液体使用済み核廃棄物入りバケツ"
+}

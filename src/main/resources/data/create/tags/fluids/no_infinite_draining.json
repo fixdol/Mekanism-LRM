@@ -1,0 +1,11 @@
+{
+  "values":
+  [
+    "mlrm:antimatter",
+    "mlrm:fissile_fuel",
+    "mlrm:nuclear_waste",
+    "mlrm:plutonium",
+    "mlrm:polonium",
+    "mlrm:spent_nuclear_waste"
+  ]
+}
