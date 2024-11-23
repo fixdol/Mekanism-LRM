@@ -1,6 +1,6 @@
 modLoader="javafml"
 loaderVersion="${loader_version_range}"
-license="${mod_license}"
+license="$MIT"
 
 [[mods]]
 modId="mlrm"
@@ -8,7 +8,8 @@ version="1.0"
 displayName="Mekanism: Liquid Radioactive Material"
 authors="FixedDolphin927"
 
-description='''${mod_description}'''
+description='''A mod that allows Mekanism radioactive material to be turned into liquid
+'''
 [[dependencies.mlrm]]
 modId="forge"
 mandatory=true
