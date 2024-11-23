@@ -1,0 +1,15 @@
+{
+  "fluid.mlrm.antimatter": "Liquid Antimatter",
+  "fluid.mlrm.fissile_fuel": "Liquid Fissile Fuel",
+  "fluid.mlrm.nuclear_waste": "Liquid Nuclear Waste",
+  "fluid.mlrm.plutonium": "Liquid Plutonium",
+  "fluid.mlrm.polonium": "Liquid Polonium",
+  "fluid.mlrm.spent_nuclear_waste": "Liquid Spent Nuclear Waste",
+
+  "item.mlrm.antimatter_bucket": "Liquid Antimatter Bucket",
+  "item.mlrm.fissile_fuel_bucket": "Liquid Fissile Fuel Bucket",
+  "item.mlrm.nuclear_waste_bucket": "Liquid Nuclear Waste Bucket",
+  "item.mlrm.plutonium_bucket": "Liquid Plutonium Bucket",
+  "item.mlrm.polonium_bucket": "Liquid Polonium Bucket",
+  "item.mlrm.spent_nuclear_waste_bucket": "Liquid Spent Nuclear Waste Bucket"
+}

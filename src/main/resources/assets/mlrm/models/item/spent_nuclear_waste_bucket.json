@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "mlrm:item/spent_nuclear_waste_bucket"
+  }
+}

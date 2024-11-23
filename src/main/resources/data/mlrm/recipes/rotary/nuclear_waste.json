@@ -1,0 +1,23 @@
+{
+  "type":"mekanism:rotary",
+  "fluidInput":
+  {
+    "amount":1,
+    "fluid":"mlrm:nuclear_waste"
+  },
+  "fluidOutput":
+  {
+    "amount":1,
+    "fluid":"mlrm:nuclear_waste"
+  },
+  "gasInput":
+  {
+    "amount":1,
+    "gas":"mekanism:nuclear_waste"
+  },
+  "gasOutput":
+  {
+    "amount":1,
+    "gas":"mekanism:nuclear_waste"
+  }
+}
