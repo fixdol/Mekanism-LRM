@@ -35,7 +35,7 @@ minecraft {
 
             property 'forge.logging.console.level', 'debug'
 
-            property 'forge.enabledGameTestNamespaces', 'examplemod'
+            property 'forge.enabledGameTestNamespaces', 'mlrm'
 
             mods {
                 examplemod {
@@ -51,7 +51,7 @@ minecraft {
 
             property 'forge.logging.console.level', 'debug'
 
-            property 'forge.enabledGameTestNamespaces', 'examplemod'
+            property 'forge.enabledGameTestNamespaces', 'mlrm'
 
             mods {
                 examplemod {
@@ -67,7 +67,7 @@ minecraft {
 
             property 'forge.logging.console.level', 'debug'
 
-            property 'forge.enabledGameTestNamespaces', 'examplemod'
+            property 'forge.enabledGameTestNamespaces', 'mlrm'
 
             mods {
                 examplemod {
@@ -116,7 +116,7 @@ dependencies {
 jar {
     manifest {
         attributes([
-                "Specification-Title"     : "examplemod",
+                "Specification-Title"     : "mlrm",
                 "Specification-Vendor"    : "examplemodsareus",
                 "Specification-Version"   : "1",
                 "Implementation-Title"    : project.name,
