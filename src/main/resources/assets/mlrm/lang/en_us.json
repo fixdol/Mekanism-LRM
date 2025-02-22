@@ -1,4 +1,5 @@
 {
+  "block.mlrm.americium": "Liquid Americium",
   "block.mlrm.antimatter": "Liquid Antimatter",
   "block.mlrm.fissile_fuel": "Liquid Fissile Fuel",
   "block.mlrm.nuclear_waste": "Liquid Nuclear Waste",
@@ -8,6 +9,7 @@
 
   "constants.mlrm.mod_name": "Mekanism: LRM",
 
+  "item.mlrm.americium_bucket": "Liquid Americium Bucket",
   "item.mlrm.antimatter_bucket": "Liquid Antimatter Bucket",
   "item.mlrm.fissile_fuel_bucket": "Liquid Fissile Fuel Bucket",
   "item.mlrm.nuclear_waste_bucket": "Liquid Nuclear Waste Bucket",

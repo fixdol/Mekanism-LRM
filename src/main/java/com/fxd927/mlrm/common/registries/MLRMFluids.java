@@ -11,6 +11,7 @@ import net.minecraftforge.fluids.ForgeFlowingFluid;
 public class MLRMFluids {
     public static final FluidDeferredRegister FLUIDS = new FluidDeferredRegister(MekanismLiquidRadioactiveMaterial.MODID);
 
+    public static final FluidRegistryObject<FluidDeferredRegister.MekanismFluidType, ForgeFlowingFluid.Source, ForgeFlowingFluid.Flowing, LiquidBlock, BucketItem> AMERICIUM = FLUIDS.registerLiquidChemical(MLRMChemicalConstants.AMERICIUM);
     public static final FluidRegistryObject<FluidDeferredRegister.MekanismFluidType, ForgeFlowingFluid.Source, ForgeFlowingFluid.Flowing, LiquidBlock, BucketItem> ANTIMATTER = FLUIDS.registerLiquidChemical(MLRMChemicalConstants.ANTIMATTER);
     public static final FluidRegistryObject<FluidDeferredRegister.MekanismFluidType, ForgeFlowingFluid.Source, ForgeFlowingFluid.Flowing, LiquidBlock, BucketItem> FISSILE_FUEL = FLUIDS.registerLiquidChemical(MLRMChemicalConstants.FISSILE_FUEL);
     public static final FluidRegistryObject<FluidDeferredRegister.MekanismFluidType, ForgeFlowingFluid.Source, ForgeFlowingFluid.Flowing, LiquidBlock, BucketItem> NUCLEAR_WASTE = FLUIDS.registerLiquidChemical(MLRMChemicalConstants.NUCLEAR_WASTE);

@@ -1,0 +1,23 @@
+{
+  "type":"mekanism:rotary",
+  "fluidInput":
+  {
+    "amount":1,
+    "fluid":"mlrm:americium"
+  },
+  "fluidOutput":
+  {
+    "amount":1,
+    "fluid":"mlrm:americium"
+  },
+  "gasInput":
+  {
+    "amount":1,
+    "gas":"mekanismscience:americium"
+  },
+  "gasOutput":
+  {
+    "amount":1,
+    "gas":"mekanismscience:americium"
+  }
+}

@@ -1,4 +1,5 @@
 {
+  "block.mlrm.americium": "液体アメリシウム",
   "block.mlrm.antimatter": "液体反物質",
   "block.mlrm.fissile_fuel": "液体核分裂燃料",
   "block.mlrm.nuclear_waste": "液体核廃棄物",
@@ -8,6 +9,7 @@
 
   "constants.mlrm.mod_name": "Mekanism: LRM",
 
+  "item.mlrm.americium_bucket": "液体アメリシウム入りバケツ",
   "item.mlrm.antimatter_bucket": "液体反物質入りバケツ",
   "item.mlrm.fissile_fuel_bucket": "液体核分裂燃料入りバケツ",
   "item.mlrm.nuclear_waste_bucket": "液体核廃棄物入りバケツ",
