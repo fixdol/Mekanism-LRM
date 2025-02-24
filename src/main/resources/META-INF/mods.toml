@@ -4,7 +4,7 @@ license="${mod_license}"
 
 [[mods]]
 modId="mlrm"
-version="1.1"
+version="1.2"
 displayName="Mekanism: Liquid Radioactive Material"
 authors="FixedDolphin927"
 

@@ -3,7 +3,7 @@ package com.fxd927.mlrm.common.gas;
 import mekanism.common.base.IChemicalConstant;
 
 public enum MLRMChemicalConstants implements IChemicalConstant {
-    AMERICIUM("americium",13983840,0,2880F,1200F),
+    AMERICIUM("americium",0xFFD35959,0,2880F,1200F),
     POLONIUM("polonium",0xFF1B9E7B,0,1235F,9196F),
     PLUTONIUM("plutonium",0xFF1F919C,0,3505F,1981.6F),
     FISSILE_FUEL("fissile_fuel",0xFF2E332F,0,329.7F,1905F),
